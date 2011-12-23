@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'ATSUI_Vertical' target in the 'ATSUI_Vertical' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
+
+#include <Carbon/Carbon.h>

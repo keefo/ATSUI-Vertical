@@ -1,0 +1,223 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* ATSUI_VerticalAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {884, 513}}";
+			sepNavSelRange = "{299, 2}";
+			sepNavVisRange = "{0, 358}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* ATSUI_VerticalAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {920, 487}}";
+			sepNavSelRange = "{398, 14}";
+			sepNavVisRange = "{0, 446}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* ATSUI_Vertical_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {884, 513}}";
+			sepNavSelRange = "{187, 0}";
+			sepNavVisRange = "{0, 187}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A7443EE212CE7EB90081D35A /* ATSUI_Vertical */;
+		activeTarget = 8D1107260486CEB800E47090 /* ATSUI_Vertical */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* ATSUI_Vertical */,
+		);
+		codeSenseManager = A7443EF012CE7ED80081D35A /* Code sense */;
+		executables = (
+			A7443EE212CE7EB90081D35A /* ATSUI_Vertical */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					742,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315559820;
+			PBXWorkspaceStateSaveDate = 315559820;
+		};
+		perUserProjectItems = {
+			A7443FF612CE90540081D35A /* PBXTextBookmark */ = A7443FF612CE90540081D35A /* PBXTextBookmark */;
+			A744401D12CE93B60081D35A /* PBXTextBookmark */ = A744401D12CE93B60081D35A /* PBXTextBookmark */;
+			A744402112CE93B60081D35A /* PBXTextBookmark */ = A744402112CE93B60081D35A /* PBXTextBookmark */;
+			A744405E12CE97080081D35A /* PBXTextBookmark */ = A744405E12CE97080081D35A /* PBXTextBookmark */;
+			A7D8371212CF162100D59A09 /* PBXTextBookmark */ = A7D8371212CF162100D59A09 /* PBXTextBookmark */;
+			A7D8371312CF162100D59A09 /* PBXTextBookmark */ = A7D8371312CF162100D59A09 /* PBXTextBookmark */;
+			A7D8371612CF16EE00D59A09 /* PBXTextBookmark */ = A7D8371612CF16EE00D59A09 /* PBXTextBookmark */;
+		};
+		sourceControlManager = A7443EEF12CE7ED80081D35A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* ATSUI_Vertical */ = {
+		activeExec = 0;
+		executables = (
+			A7443EE212CE7EB90081D35A /* ATSUI_Vertical */,
+		);
+	};
+	A7443EE212CE7EB90081D35A /* ATSUI_Vertical */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ATSUI_Vertical;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	A7443EEF12CE7ED80081D35A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A7443EF012CE7ED80081D35A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A7443EF112CE7F1C0081D35A /* verticaltext.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = verticaltext.h;
+		path = /Users/xulian/Projects/Beyondcow/ATSUI_Vertical/verticaltext.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {884, 812}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{797, 1881}";
+		};
+	};
+	A7443F0512CE7FF20081D35A /* VerticalView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 560}}";
+			sepNavSelRange = "{398, 6}";
+			sepNavVisRange = "{0, 810}";
+		};
+	};
+	A7443F0612CE7FF20081D35A /* VerticalView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1142, 2338}}";
+			sepNavSelRange = "{1258, 0}";
+			sepNavVisRange = "{2124, 936}";
+		};
+	};
+	A7443FF612CE90540081D35A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* ATSUI_Vertical_Prefix.pch */;
+		name = "ATSUI_Vertical_Prefix.pch: 10";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 187;
+		vrLoc = 0;
+	};
+	A744401D12CE93B60081D35A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A7443EF112CE7F1C0081D35A /* verticaltext.h */;
+		name = "verticaltext.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1881;
+		vrLoc = 797;
+	};
+	A744402112CE93B60081D35A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* ATSUI_VerticalAppDelegate.h */;
+		name = "ATSUI_VerticalAppDelegate.h: 14";
+		rLen = 2;
+		rLoc = 299;
+		rType = 0;
+		vrLen = 358;
+		vrLoc = 0;
+	};
+	A744405E12CE97080081D35A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A7443F0512CE7FF20081D35A /* VerticalView.h */;
+		name = "VerticalView.h: 20";
+		rLen = 6;
+		rLoc = 398;
+		rType = 0;
+		vrLen = 810;
+		vrLoc = 0;
+	};
+	A7D8371212CF162100D59A09 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A7443F0612CE7FF20081D35A /* VerticalView.m */;
+		name = "VerticalView.m: 124";
+		rLen = 0;
+		rLoc = 4479;
+		rType = 0;
+		vrLen = 1555;
+		vrLoc = 3761;
+	};
+	A7D8371312CF162100D59A09 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* ATSUI_VerticalAppDelegate.m */;
+		name = "ATSUI_VerticalAppDelegate.m: 17";
+		rLen = 0;
+		rLoc = 419;
+		rType = 0;
+		vrLen = 439;
+		vrLoc = 0;
+	};
+	A7D8371612CF16EE00D59A09 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* ATSUI_VerticalAppDelegate.m */;
+		name = "ATSUI_VerticalAppDelegate.m: 17";
+		rLen = 14;
+		rLoc = 398;
+		rType = 0;
+		vrLen = 446;
+		vrLoc = 0;
+	};
+}
